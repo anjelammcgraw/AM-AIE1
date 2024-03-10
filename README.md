@@ -1,5 +1,4 @@
-# W1D2
-W1D2: dev setup 
+# W1D2: dev setup 
 =======
 ---
 title: BeyondChatGPT Demo
